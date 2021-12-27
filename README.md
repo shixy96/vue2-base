@@ -6,6 +6,7 @@ includes
 [eslint](https://eslint.org/), 
 [babel](https://babel.docschina.org/),
 [vue2](https://cn.vuejs.org/v2/guide/index.html),
+[Composition API plugin for Vue 2](https://github.com/vuejs/composition-api/blob/main/README.md)
 [vuex](https://vuex.vuejs.org/zh/), 
 [vue-router](https://router.vuejs.org/zh/),
 [axios](https://axios-http.com/docs/intro), 
