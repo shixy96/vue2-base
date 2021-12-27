@@ -1,28 +1,30 @@
-# qs-peixun
+# vue2 base object
+
+includes 
+[webpack](https://webpack.js.org/), 
+[sass](https://www.sass.hk/), 
+[eslint](https://eslint.org/), 
+[babel](https://babel.docschina.org/),
+[vue2](https://cn.vuejs.org/v2/guide/index.html),
+[vuex](https://vuex.vuejs.org/zh/), 
+[vue-router](https://router.vuejs.org/zh/),
+[axios](https://axios-http.com/docs/intro), 
+[element-ui](https://element.eleme.cn/#/zh-CN/component/quickstart)
 
 ## Project setup
 ```
-yarn install
-```
+npm install
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+npm run [env]
 
-### Compiles and minifies for production
-```
-yarn build
-```
+npm run build
 
-### Run your unit tests
-```
-yarn test:unit
-```
+npm run test:unit
 
-### Lints and fixes files
-```
-yarn lint
+npm run lint
+npm run lint:fix
+
+npm run commit
 ```
 
 ### Customize configuration
